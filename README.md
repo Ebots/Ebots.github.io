@@ -4,6 +4,9 @@ Don't bind your imagination with your limitation
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZFQZG6ERPX9F6)
 
+[![Donate](https://img.shields.io/badge/Donate-Patreon-orange.svg)](https://www.patreon.com/Ebots/)
+
+
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
